@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "514436008555",
+    "project_id": "coworking-space-app-e20e9",
+    "storage_bucket": "coworking-space-app-e20e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514436008555:android:062468954764e574d3bf2e",
+        "android_client_info": {
+          "package_name": "com.coworking_space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514436008555-p4s68ijaa06rr54350m3qvivorkc070d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coworking_space",
+            "certificate_hash": "bd1d968ca2e803ced260f77caee5845a70140003"
+          }
+        },
+        {
+          "client_id": "514436008555-viapohnqpu0pcohe815gq61ophts9l04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coworking_space",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "514436008555-dv7na9rest4pufq1nkq09qg0phlfjanq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqHqHFOB9nqg4jnOxiqGmzUXIjtfBsjqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514436008555-dv7na9rest4pufq1nkq09qg0phlfjanq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
